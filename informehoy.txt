@@ -1,0 +1,1 @@
+hicimos un taller con git bash y consultamos estado de carpeta por terminal, tambien agregamos comentario y eliminamos archivos y subimos un prroyecto a un repiositorio
